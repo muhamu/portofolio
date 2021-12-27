@@ -23,8 +23,8 @@ if (document.getElementsByClassName('demo').length > 0) {
             ##experience
             - 1,5 years in IT Operational Support
             - 1 year ASP.NET
-            - 1,5 Business Intelligence
-            - 2,5 Data Analyst & ETL Developer`;
+            - 1,5 years Business Intelligence
+            - 2,5 years Data Analyst & ETL Developer`;
   var speed = 15;
 
   function typeItOut () {
